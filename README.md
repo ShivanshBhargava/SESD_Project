@@ -25,25 +25,3 @@ Welcome to the documentation for the **Arbitrage Detection & Analysis Engine (AD
 
 ---
 *Created as part of the SESD Semester Project.*
-
-<!-- update: 2026-02-14T10:37:02 0 -->
-
-<!-- update: 2026-02-14T15:09:59 1 -->
-
-<!-- update: 2026-02-14T19:34:34 2 -->
-
-<!-- update: 2026-02-15T11:42:36 0 -->
-
-<!-- update: 2026-02-15T14:23:29 1 -->
-
-<!-- update: 2026-02-15T18:13:33 2 -->
-
-<!-- update: 2026-02-16T09:03:30 0 -->
-
-<!-- update: 2026-02-16T09:16:10 1 -->
-
-<!-- update: 2026-02-17T14:45:31 0 -->
-
-<!-- update: 2026-02-18T17:02:23 0 -->
-
-<!-- update: 2026-02-18T09:16:08 1 -->
