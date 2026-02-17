@@ -40,19 +40,3 @@ sequenceDiagram
 4.  **Detection:** Upon every significant edge update, the `Detection Engine` runs a negative cycle detection algorithm.
 5.  **Validation:** If a cycle is found, the engine validates it against trading fees and liquidity constraints.
 6.  **Persistence & Notification:** Profitable opportunities are saved to PostgreSQL for historical record and pushed immediately to the frontend via WebSockets.
-
-<!-- update: 2026-02-14T14:52:18 0 -->
-
-<!-- update: 2026-02-14T20:48:48 1 -->
-
-<!-- update: 2026-02-15T09:21:15 0 -->
-
-<!-- update: 2026-02-16T15:36:17 0 -->
-
-<!-- update: 2026-02-17T12:55:26 0 -->
-
-<!-- update: 2026-02-18T18:53:54 0 -->
-
-<!-- update: 2026-02-18T17:47:26 1 -->
-
-<!-- update: 2026-02-18T20:16:20 2 -->
