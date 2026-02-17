@@ -38,27 +38,3 @@ The project will focus on the following boundaries:
 *   **Concurrency Management:** Handling thousands of price updates per second without blocking the detection engine.
 *   **Numerical Stability:** Managing floating-point precision issues during log-transformations and profit calculations.
 *   **System Reliability:** Ensuring the system remains consistent even during high market volatility.
-
-<!-- update: 2026-02-14T12:03:02 0 -->
-
-<!-- update: 2026-02-14T16:17:59 1 -->
-
-<!-- update: 2026-02-14T16:37:52 2 -->
-
-<!-- update: 2026-02-15T20:25:25 0 -->
-
-<!-- update: 2026-02-15T20:47:40 1 -->
-
-<!-- update: 2026-02-16T13:43:03 0 -->
-
-<!-- update: 2026-02-17T15:11:52 0 -->
-
-<!-- update: 2026-02-17T11:27:18 1 -->
-
-<!-- update: 2026-02-17T14:05:51 2 -->
-
-<!-- update: 2026-02-18T11:34:46 0 -->
-
-<!-- update: 2026-02-18T12:00:40 1 -->
-
-<!-- update: 2026-02-18T10:32:27 2 -->
