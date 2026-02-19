@@ -1,5 +1,5 @@
 # Arbitrage Detection & Analysis Engine (ADAE)
-## Software Engineering & System Design (SESD) Project - Milestone 1
+## Software Engineering & System Design
 
 Welcome to the documentation for the **Arbitrage Detection & Analysis Engine (ADAE)**. This project aims to detect profitable arbitrage loops across multiple asset markets using graph-based algorithms.
 
