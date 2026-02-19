@@ -7,20 +7,20 @@
 
 ## Diagram
 ```mermaid
-usecaseDiagram
+flowchart LR
 
-actor "User / Researcher" as User
-actor "System (ADAE Engine)" as System
-actor "Market Data Source" as DataSource
+User["User / Researcher"]
+System["System (ADAE Engine)"]
+DataSource["Market Data Source"]
 
-rectangle "Arbitrage Detection System" {
-    (Monitor Real-time Arbitrage) as UC1
-    (Analyze Historical Cycles) as UC2
-    (Configure Asset Watchlist) as UC3
-    (Ingest Market Data) as UC4
-    (Detect Negative Cycles) as UC5
-    (Calculate Profitability) as UC6
-}
+subgraph ADS["Arbitrage Detection System"]
+    UC1["Monitor Real-time Arbitrage"]
+    UC2["Analyze Historical Cycles"]
+    UC3["Configure Asset Watchlist"]
+    UC4["Ingest Market Data"]
+    UC5["Detect Negative Cycles"]
+    UC6["Calculate Profitability"]
+end
 
 User --> UC1
 User --> UC2
